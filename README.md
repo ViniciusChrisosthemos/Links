@@ -2,22 +2,6 @@
 Links Úteis
 
 ## Tutoriais Unity: 
-VFX Packages:
-
-Unique Projectiles Volume 1: https://assetstore.unity.com/packages...
-
-Unique Projectiles Volume 2: https://assetstore.unity.com/packages...
-
-Unique Explosions Volume 1: https://assetstore.unity.com/packages...
-
-Unique Lasers Volume 1: https://assetstore.unity.com/packages...
-
-Unique Magic Abilities Volume 1: https://assetstore.unity.com/packages...
-
-Unique Toon Projectiles Volume 1: https://assetstore.unity.com/packages...
-
-
-
 
 VFX Graph Tutorials:
 
