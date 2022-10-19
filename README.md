@@ -109,3 +109,7 @@ Doom Eternal - BFG-9000 VFX: https://youtu.be/yDNZpkyosrA
 Demon's Souls - Disintegrate Enemies: https://youtu.be/V09GYNpD38U
 
 Overwatch - Reinhardt's Shield: https://youtu.be/m7GimQakt3A
+
+Others:
+
+Backface culling - https://twitter.com/harryalisavakis/status/1067357331627933696?lang=en
