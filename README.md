@@ -113,3 +113,5 @@ Overwatch - Reinhardt's Shield: https://youtu.be/m7GimQakt3A
 Others:
 
 Backface culling - https://twitter.com/harryalisavakis/status/1067357331627933696?lang=en
+Unzip files - https://github.com/sankyprabhu/UnityZip/tree/2d705627d5a41edee79c9f7446bb09c38caed156
+Load 3D model at Runtime (Free for test) - https://unityassets4free.com/trilib-2-model-loading-package/
