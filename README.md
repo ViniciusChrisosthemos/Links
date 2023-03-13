@@ -32,7 +32,7 @@ VFX Graph - Character Effects: https://youtu.be/ePbeaYuMNK4
 
 
 
-Shader Graph Tutorials:
+# Shader Graph Tutorials:
 
 Shader Graph - Introduction: https://youtu.be/O75iGGUQXBI
 
@@ -78,7 +78,7 @@ Shader Graph - Grow Shader: https://youtu.be/LKaEMBLIw9s
 
 
 
-Other VFX Tutorials:
+# Other VFX Tutorials:
 
 Glowing Orb: https://youtu.be/ctmqr_8esT0
 
@@ -110,8 +110,10 @@ Demon's Souls - Disintegrate Enemies: https://youtu.be/V09GYNpD38U
 
 Overwatch - Reinhardt's Shield: https://youtu.be/m7GimQakt3A
 
-Others:
+# Others:
 
 Backface culling - https://twitter.com/harryalisavakis/status/1067357331627933696?lang=en
+
 Unzip files - https://github.com/sankyprabhu/UnityZip/tree/2d705627d5a41edee79c9f7446bb09c38caed156
+
 Load 3D model at Runtime (Free for test) - https://unityassets4free.com/trilib-2-model-loading-package/
