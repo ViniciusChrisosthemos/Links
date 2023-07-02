@@ -3,6 +3,8 @@ Links Úteis
 
 ## Tutoriais Unity: 
 
+Vários tutoriais interessantes: https://catlikecoding.com/unity/tutorials/
+
 VFX Graph Tutorials:
 
 VFX Graph - Magic Orb: https://youtu.be/7bMOhNUA1bI
